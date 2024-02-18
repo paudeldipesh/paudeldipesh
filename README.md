@@ -1,5 +1,3 @@
-<p align="center">FRONTEND DEVELOPER</p>
-
 ###
 
 <div align="center">
